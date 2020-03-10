@@ -1,3 +1,3 @@
 Os arquivos usados na Dissertação SOLUÇÃO DO PROBLEMA DE MARKETING DIRETO COM CANIBLISMO: MÉTODOS EXATOS E HEURÍSTICOS, apresentada ao Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal de Santa Maria, por Greici da Rosa da Cruz, como requisito parcial para obtenção do título de Mestre em Ciência da Computação, estão disponíveis a fim de auxiliar a comunidade acadêmica, em novas pesquisas com Problema de Marketing Direto com Oferta de Produtos.
 
-*UPLOAD resultados em andamento (aguardando finalizar as últimas três instâncias)
+*UPLOAD dos resultados em andamento (aguardando finalizar as últimas três instâncias)
